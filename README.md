@@ -1,5 +1,5 @@
 # Tindog
-Tindog website is a play on Tinder. This site was a project I completed in an online boot camp and was built using HTML, Bootstrap, as well as customized CSS styles.
+The [Tindog website](https://illustrious-clafoutis-7a3b49.netlify.app) is a play on Tinder. This site was a project I completed in an online boot camp and was built using HTML, Bootstrap, as well as customized CSS styles.
 
 ![image](https://github.com/sidneyshafer/tindog/assets/66838571/0cd2aca9-b93c-43eb-9d85-0aa218c9699b)
 

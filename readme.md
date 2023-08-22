@@ -1,5 +1,5 @@
 # Tindog
-The [Tindog website](https://illustrious-clafoutis-7a3b49.netlify.app) is a play on Tinder. It is a static, front-end application built with HTML, Bootstrap, and customized CSS styles. I created this project in the 100 Days of Python Code Bootcamp Udemy course.
+Coded a responsive front-end application using Visual Studio Code, HTML, Bootstrap, and customized CSS styles. [Tindog website](https://illustrious-clafoutis-7a3b49.netlify.app)
 
 ![image](https://github.com/sidneyshafer/tindog/assets/66838571/0cd2aca9-b93c-43eb-9d85-0aa218c9699b)
 

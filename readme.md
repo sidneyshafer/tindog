@@ -1,4 +1,4 @@
-# [Tindog Website](https://illustrious-clafoutis-7a3b49.netlify.app)
+# [Tindog Website]
 A responsive front-end application using Visual Studio Code, HTML, Bootstrap, and customized CSS styles.
 
 ## User Interface Design
@@ -11,6 +11,9 @@ A responsive front-end application using Visual Studio Code, HTML, Bootstrap, an
 ![image](https://github.com/sidneyshafer/tindog/assets/66838571/5247ddc4-c2ad-45d3-92fe-7c7a22254f2d)
 
 ![image](https://github.com/sidneyshafer/tindog/assets/66838571/1622895d-b6e7-43c9-a71d-8d3e8c306c0d)
+
+## Attribution
+- Dr. Angela Yu. [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/share/103J8C3@ckrRtb65CK39zoRQ7ejzgQXT_z-N9n2cSrmcAUMCIBZygb-z1GqtLQROSpht1J0U6A==/), Udemy.
 
 ## License
 

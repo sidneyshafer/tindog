@@ -1,4 +1,4 @@
-# [Tindog Website]
+# Tindog Website
 A responsive front-end application using Visual Studio Code, HTML, Bootstrap, and customized CSS styles.
 
 ## User Interface Design

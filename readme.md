@@ -16,7 +16,6 @@ A responsive front-end application using Visual Studio Code, HTML, Bootstrap, an
 - Dr. Angela Yu. [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/share/103J8C3@ckrRtb65CK39zoRQ7ejzgQXT_z-N9n2cSrmcAUMCIBZygb-z1GqtLQROSpht1J0U6A==/), Udemy.
 
 ## License
-
 The MIT License
 
 Copyright (c) 2023 Sidney Shafer

@@ -1,5 +1,5 @@
 # Tindog Website
-A responsive front-end application using Visual Studio Code, HTML, Bootstrap, and customized CSS styles.
+A responsive front-end application built with HTML, Bootstrap, and customized CSS styles. Check out the [Live Site](https://sidneyshafer.github.io/tindog/) ↗️.
 
 ## User Interface Design
 ![image](https://github.com/sidneyshafer/tindog/assets/66838571/0cd2aca9-b93c-43eb-9d85-0aa218c9699b)
